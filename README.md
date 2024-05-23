@@ -5,5 +5,14 @@
 - 🚀 Currently I'm working on Full Stack Project
 
 ## Skills
+
+<div style="display: flex; align-items: center; width:100%; flex-direction:row; justify-content:space-evenly">
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" alt="React Logo" width="50px" height="50px" style="border-radius:10px;">
-<img src="https://iconscout.com/free-icon/typescript-3628533" alt="React Logo" width="50px" height="50px" style="border-radius:10px;">
+<img src="https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=000000" alt="React Logo" width="50px" height="50px" style="border-radius:10px;">
+<img src="https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000" alt="React Logo" width="50px" height="50px" style="border-radius:10px;">
+
+<img src="https://img.icons8.com/?size=100&id=39854&format=png&color=000000" alt="React Logo" width="50px" height="50px" style="border-radius:10px;">
+<img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" alt="React Logo" width="50px" height="50px" style="border-radius:10px;">
+<img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="React Logo" width="50px" height="50px" style="border-radius:10px;">
+<img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="React Logo" width="50px" height="50px" style="border-radius:10px;">
+</div>

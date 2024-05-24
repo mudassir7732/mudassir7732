@@ -1,5 +1,5 @@
-# Hi 👋 I’m Mudassir
-## Front-End Developer
+# Hi, I’m Mudassir!
+## 💫About Me:
 - 🌍 I’m based in Pakistan
 - ✉️ You can contact me at mudassir7732@gmail.com
 - 🚀 Currently I'm working on Full Stack Project

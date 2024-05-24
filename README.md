@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir7732/) 
-[![Website](https://img.shields.io/website)(https://mudassir7732.dorik.io/) 
+[![Website](https://img.shields.io/website?url=http%3A//www.website.com)(https://mudassir7732.dorik.io/) 
 
 # 💻 Tech Stack:
 ![MySQL](https://i.postimg.cc/05FfSQSr/tt.png) ![MySQL](https://i.postimg.cc/RhZwrk23/tt.png)

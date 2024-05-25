@@ -14,5 +14,5 @@
 
 ## 📊 GitHub Stats:
 ![MySQL](https://i.postimg.cc/fyjCTLZM/11.png)<br/>
-![MySQL](https://i.postimg.cc/K8dMwbSf/22.png)<br/>
+![MySQL](https://i.postimg.cc/nryxZ3Hy/22-crop.png)<br/>
 ![MySQL](https://i.postimg.cc/XNQy3d6p/33.png)

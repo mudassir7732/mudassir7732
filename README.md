@@ -18,6 +18,7 @@
 
 
 ## 📊 GitHub Stats:
+![MySQL](https://i.postimg.cc/fyjCTLZM/11.png) ![MySQL](https://i.postimg.cc/K8dMwbSf/22.png)![MySQL](https://i.postimg.cc/XNQy3d6p/33.png)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nishitdixit&theme=radical&no-frame=false&no-bg=false&margin-w=4)

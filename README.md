@@ -17,4 +17,5 @@
 ![MySQL](https://i.postimg.cc/nryxZ3Hy/22-crop.png)<br/>
 ![MySQL](https://i.postimg.cc/XNQy3d6p/33.png)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mudassir7732&theme=onedark)](https://github.com/mudassir7732/github-profile-trophy)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mudassir7732&theme=radical&no-frame=false&no-bg=false&margin-w=4)

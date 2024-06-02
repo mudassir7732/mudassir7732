@@ -1,4 +1,4 @@
-# Hi, I'm Mudassir!
+# Hi, I'm Mudassir
 
 ## 💫 About Me:
 🚀 Website developer for cross-platform development<br>💻 I'm also proficient in full-stack, ensuring seamless websites<br>🔄 An agile expert, managing release cycles<br>🛠 I conduct code reviews to maintain quality<br>📈 I'm committed to continuous learning & innovation

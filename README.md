@@ -13,9 +13,10 @@
 ![MySQL](https://i.postimg.cc/3NQGbM9Q/tt.png)
 
 ## 📊 GitHub Stats:
-![MySQL](https://i.postimg.cc/fyjCTLZM/11.png)<br/>
-![MySQL](https://i.postimg.cc/nryxZ3Hy/22-crop.png)<br/>
-![MySQL](https://i.postimg.cc/XNQy3d6p/33.png)
+
+![](https://github-readme-stats.vercel.app/api?username=mudassir7732&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mudassir7732&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir7732&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mudassir7732&theme=radical&no-frame=false&no-bg=false&margin-w=4)
